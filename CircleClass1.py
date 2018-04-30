@@ -1,6 +1,4 @@
-#File: CircleClass.py
 #Muhammad Saad Mujtaba
-#Computer Programming
 #March 22, 2017
 
 from PointClass import Point, isclose
