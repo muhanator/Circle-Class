@@ -1,8 +1,5 @@
 #Muhammad Saad Mujtaba
-#Computer Programming
 #March 22, 2017
-
-#File:Test runs.py
 
 from CircleClass1 import Circle
 
